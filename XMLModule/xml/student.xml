@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--本xml文件用来描述多个学生信息-->
+<students>
+    <!--第一个学生信息-->
+    <student id="1">
+        <name>张三</name>
+        <age>23</age>
+        <info>学生&lt;&gt;的信息</info>
+        <message><![CDATA[<<< >>>]]></message>
+    </student>
+
+    <student id="2">
+        <!--    第二个学生信息-->
+        <name>李四</name>
+        <age>21</age>
+    </student>
+</students>
